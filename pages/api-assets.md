@@ -4,7 +4,8 @@ title: Assets
 date: 2016-01-01T00:00:00.000Z
 permalink: /apis/assets.html
 eleventyNavigation:
-  key: Bank Assets API
+  key: assets
+  title: Bank Assets API
   order: 8
 ---
 

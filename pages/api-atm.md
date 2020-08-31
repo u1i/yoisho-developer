@@ -4,7 +4,8 @@ title: ATM
 date: 2016-01-01T00:00:00.000Z
 permalink: /apis/atm.html
 eleventyNavigation:
-  key: ATM Locator API
+  key: atm
+  title: ATM Locator API
   order: 7
 ---
 
@@ -72,4 +73,3 @@ The entries with id 1 and 2 are prepopulated when the container starts:
 `curl https://backend.yoisho.dob.jp/banking/v2/atm`
 
 > {"result": [{"lat": "35.6684231", "lon": "139.6833085", "location": "Ebisu Station", "id": "2"}, {"lat": "35.6284713", "lon": "139.736571", "location": "Shinagawa Station", "id": "1"}]}
-

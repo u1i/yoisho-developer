@@ -4,7 +4,8 @@ title: Account
 date: 2016-01-01T00:00:00.000Z
 permalink: /apis/account.html
 eleventyNavigation:
-  key: Account API
+  key: accountapi
+  title: Account API
   order: 3
 ---
 
@@ -55,7 +56,7 @@ Now with this access token we can call the actual API and retrieve the account i
 `curl -X GET https://backend.yoisho.dob.jp/account/info -H 'Authorization: Bearer eSlcNwnLxTuzsYXyzFrhGGU3mrCKPxQ5fy51Jx93.MTUzMjM1NDM0OA=='`
 
 > {"account_owner": "dave", "fullname": "Dave Thompson", "email": "daveth271@gmail.com", "address": "491-1295, Nishimiyanosawa 6-jo, Teine-ku Sapporo-shi, Hokkaido", "phone": "+8183-977-7817"}
-> 
+>
 
 
 ### Get account balance for user
@@ -65,7 +66,7 @@ With the same access token we retrieve the account balance from the resource own
 `curl -X GET https://backend.yoisho.dob.jp/account/balance -H 'Authorization: Bearer eSlcNwnLxTuzsYXyzFrhGGU3mrCKPxQ5fy51Jx93.MTUzMjM1NDM0OA=='`
 
 > {"account_owner": "dave", "account_balance": "10,187.91"}
-> 
+>
 
 ### OAuth client - Python implementation
 
