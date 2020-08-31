@@ -4,13 +4,14 @@ title: Account
 date: 2016-01-01T00:00:00.000Z
 permalink: /apis/account.html
 eleventyNavigation:
-  key: Account
+  key: Account API
   order: 3
 ---
 
+# Account Info & Balance - REST/JSON OAuth
+
 ![](/static/img/i2.png)
 
-# Account Info & Balance - REST/JSON OAuth
 
 Gives you an account balance API with a 3-legged OAuth flow including consumer consent management & login.
 
