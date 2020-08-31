@@ -7,61 +7,59 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-# Yoisho Consumer Banking – Developer Portal
-
+# ようこそ!
 
 An increasing number of our banking products and services are available via APIs, in order to allow 3rd parties to build apps. Here you will find all the info and documentation of the APIs our bank offers.
 
-
 ## Accounts
 
-### [Bank Account Details & Balance](./accounts.md)
+![](/static/img/i2.png)
 
-| | |
-|---|---|
-| <img src="./res/i2.png" width="150"/> | OAuth protected endpoints for accessing personal data and balance of bank account owners |
+### Bank Account Details & Balance
+
+|     |                                                                                          |
+| --- | ---------------------------------------------------------------------------------------- |
+|     | OAuth protected endpoints for accessing personal data and balance of bank account owners |
 
 ## Consumer Banking Products
 
 ### [Fixed Deposits](./deposits.md)
 
-| | |
-|---|---|
+|                                       |                                                                                              |
+| ------------------------------------- | -------------------------------------------------------------------------------------------- |
 | <img src="./res/i7.png" width="150"/> | Calculates rates for deposits based on the amount and the number of years the loan would run |
 
 ### [Investments](./invest.md)
 
-| | |
-|---|---|
+|                                       |                                |
+| ------------------------------------- | ------------------------------ |
 | <img src="./res/i8.png" width="150"/> | A list of tpp performing funds |
 
 ## Bank Information
 
 ### [ATM Locations](./atm.md)
 
-| | |
-|---|---|
+|                                       |                                        |
+| ------------------------------------- | -------------------------------------- |
 | <img src="./res/i6.png" width="150"/> | A list of Yoisho ATMs around the world |
 
 ### [Bank Assets](./assets.md)
 
-| | |
-|---|---|
+|                                       |                                                                              |
+| ------------------------------------- | ---------------------------------------------------------------------------- |
 | <img src="./res/i3.png" width="150"/> | SOAP Backends for the total amount of assets and debt the bank currently has |
 
 ### [Forex – Currency Exchange Rates](./currency.md)
 
-| | |
-|---|---|
+|                                       |                                                       |
+| ------------------------------------- | ----------------------------------------------------- |
 | <img src="./res/i4.png" width="150"/> | Yoisho's competitive exchange rates available via API |
 
 ### [Stock Quote](./quote.md)
 
-| | |
-|---|---|
+|                                       |                                                 |
+| ------------------------------------- | ----------------------------------------------- |
 | <img src="./res/i3.png" width="150"/> | The current stock price of Yoisho Banking Corp. |
-
-
 
 ### About Yoisho
 
