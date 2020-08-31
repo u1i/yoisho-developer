@@ -21,7 +21,7 @@ An increasing number of our banking products and services are available via APIs
 
 ## Consumer Banking Products
 
-### [Fixed Deposits](/apis/deposits.html)
+### [Fixed Deposits](/apis/deposit.html)
 
 |                                       |                                                                                              |
 | ------------------------------------- | -------------------------------------------------------------------------------------------- |
