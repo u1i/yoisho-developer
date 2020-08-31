@@ -13,7 +13,7 @@ An increasing number of our banking products and services are available via APIs
 
 ## Accounts
 
-### Bank Account Details & Balance
+### [Bank Account Details & Balance](/apis/account.html)
 
 |     |                                                                                          |
 | --- | ---------------------------------------------------------------------------------------- |
