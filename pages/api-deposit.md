@@ -18,6 +18,12 @@ This API calculates the total interest earned from a fixed deposit, along with a
 |---|---|---|
 | [OpenAPI Specification](https://backend.yoisho.dob.jp/fixeddeposit/swagger)| [Swagger Editor](https://editor.swagger.io/?url=https://backend.yoisho.dob.jp/fixeddeposit/swagger) | [Sample Request](https://backend.yoisho.dob.jp/fixeddeposit/calculate?years=10&amount=20000) |
 
+## API Version 1
+<a href="https://backend.yoisho.dob.jp/fixeddeposit/swagger" target="_new">Open API Specification</a>
+<a href="https://editor.swagger.io/?url=https://backend.yoisho.dob.jp/fixeddeposit/swagger" target="_new">Test the API</a>
+<a href="https://backend.yoisho.dob.jp/fixeddeposit/calculate?years=10&amount=20000" target="_new">Sample Request</a>
+
+
 ### Get the Swagger
 
 `curl https://backend.yoisho.dob.jp/fixeddeposit/swagger`
