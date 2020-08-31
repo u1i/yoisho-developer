@@ -1,11 +1,11 @@
 ---
 layout: layouts/api.njk
-title: Home
+title: Account API
 date: 2016-01-01T00:00:00.000Z
 permalink: /apis/account.html
 eleventyNavigation:
-  key: Home
-  order: 0
+  key: Account API
+  order: 3
 ---
 
 ![](/static/img/i2.png)
