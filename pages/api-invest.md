@@ -4,7 +4,8 @@ title: Investment
 date: 2016-01-01T00:00:00.000Z
 permalink: /apis/invest.html
 eleventyNavigation:
-  key: Investment Products API
+  key: investments
+  title: Investment Products API
   order: 6
 ---
 
@@ -50,4 +51,3 @@ This API provides investment insights of top performing funds. One endpoint, but
 `curl https://backend.yoisho.dob.jp/invest/v2/products`
 
 > [{"performance_rating": "1", "name": "First Arima Onsen", "previous_performance_rating": "1", "currency": "JPY", "performance": "78", "id": "YB0GB893"}, {"performance_rating": "2", "name": "Castle Rock Index Fund", "previous_performance_rating": "1", "currency": "USD", "performance": "71", "id": "YB0IM691"}, {"performance_rating": "2", "name": "Odee Hangzhou BC", "previous_performance_rating": "0", "currency": "RMB", "performance": "69", "id": "YB0SD611"}, {"performance_rating": "3", "name": "Sedona 500", "previous_performance_rating": "4", "currency": "USD", "performance": "56", "id": "YB0AA223"}, {"performance_rating": "4", "name": "Munich WB2", "previous_performance_rating": "2", "currency": "EUR", "performance": "51", "id": "YB0DE781"}]
-

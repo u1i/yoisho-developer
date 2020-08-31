@@ -4,7 +4,8 @@ title: Quote
 date: 2016-01-01T00:00:00.000Z
 permalink: /apis/quote.html
 eleventyNavigation:
-  key: Stockquote API
+  key: stockquote
+  title: Stockquote API
   order: 10
 ---
 

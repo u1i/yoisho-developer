@@ -4,7 +4,8 @@ title: Forex
 date: 2016-01-01T00:00:00.000Z
 permalink: /apis/currency.html
 eleventyNavigation:
-  key: Forex API
+  key: forex
+  title: Forex API
   order: 9
 ---
 
@@ -31,4 +32,3 @@ This API gives you exchange rates for currencies (USD, GBP and SGD) that the ban
 `curl https://backend.yoisho.dob.jp/fx/currency?currency=USD`
 
 > {"sell": "489.185", "timestamp": "2017-09-17 02:58:40.194337", "buy": "389.105"}
-
