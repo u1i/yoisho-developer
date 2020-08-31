@@ -24,7 +24,8 @@ body {
 
 main {
 	max-widthX: 37.5em;
-	margin-left: 180px;
+	margin-left: 80px;
+	margin-right: 80px;
 }
 
 p,
