@@ -28,6 +28,6 @@ This API returns the stock price of Yoisho Banking Corp. The data updates every 
 
 ### Get current quote
 
-`curl ttps://backend.yoisho.dob.jp/stockquote/current`
+`curl https://backend.yoisho.dob.jp/stockquote/current`
 
 > {"message": "Stock Price refreshes every minute", "stockprice": "371.44"}
