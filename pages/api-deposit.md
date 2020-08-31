@@ -4,7 +4,7 @@ title: Deposits
 date: 2016-01-01T00:00:00.000Z
 permalink: /apis/deposit.html
 eleventyNavigation:
-  key: Deposits
+  key: Deposits API
   order: 4
 ---
 
@@ -14,11 +14,8 @@ eleventyNavigation:
 
 This API calculates the total interest earned from a fixed deposit, along with a breakdown for the number of years the deposit is running. Parameters: amount, number of years the fixed deposit will run
 
-| Version 1| | |
-|---|---|---|
-| [OpenAPI Specification](https://backend.yoisho.dob.jp/fixeddeposit/swagger)| [Swagger Editor](https://editor.swagger.io/?url=https://backend.yoisho.dob.jp/fixeddeposit/swagger) | [Sample Request](https://backend.yoisho.dob.jp/fixeddeposit/calculate?years=10&amount=20000) |
+## Version 1
 
-## API Version 1
 <a href="https://backend.yoisho.dob.jp/fixeddeposit/swagger" target="_new">Open API Specification</a>
 <a href="https://editor.swagger.io/?url=https://backend.yoisho.dob.jp/fixeddeposit/swagger" target="_new">Test the API</a>
 <a href="https://backend.yoisho.dob.jp/fixeddeposit/calculate?years=10&amount=20000" target="_new">Sample Request</a>
