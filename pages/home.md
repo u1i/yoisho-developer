@@ -21,13 +21,13 @@ An increasing number of our banking products and services are available via APIs
 
 ## Consumer Banking Products
 
-### [Fixed Deposits](./deposits.md)
+### [Fixed Deposits](/apis/deposits.html)
 
 |                                       |                                                                                              |
 | ------------------------------------- | -------------------------------------------------------------------------------------------- |
 | ![](/static/img/i7.png) | Calculates rates for deposits based on the amount and the number of years the loan would run |
 
-### [Investments](./invest.md)
+### [Investments](/apis/invest.html)
 
 |                                       |                                |
 | ------------------------------------- | ------------------------------ |
@@ -35,25 +35,25 @@ An increasing number of our banking products and services are available via APIs
 
 ## Bank Information
 
-### [ATM Locations](./atm.md)
+### [ATM Locations](/apis/atm.html)
 
 |                                       |                                        |
 | ------------------------------------- | -------------------------------------- |
 | ![](/static/img/i6.png) | A list of Yoisho ATMs around the world |
 
-### [Bank Assets](./assets.md)
+### [Bank Assets](/apis/assets.html)
 
 |                                       |                                                                              |
 | ------------------------------------- | ---------------------------------------------------------------------------- |
 | ![](/static/img/i3.png) | SOAP Backends for the total amount of assets and debt the bank currently has |
 
-### [Forex – Currency Exchange Rates](./currency.md)
+### [Forex – Currency Exchange Rates](/apis/currency.html)
 
 |                                       |                                                       |
 | ------------------------------------- | ----------------------------------------------------- |
 | ![](/static/img/i4.png) | Yoisho's competitive exchange rates available via API |
 
-### [Stock Quote](./quote.md)
+### [Stock Quote](/apis/quote.html)
 
 |                                       |                                                 |
 | ------------------------------------- | ----------------------------------------------- |
