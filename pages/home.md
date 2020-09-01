@@ -31,7 +31,7 @@ An increasing number of our banking products and services are available via APIs
 
 |                                       |                                |
 | ------------------------------------- | ------------------------------ |
-| ![](/static/img/i8.png) | A list of tpp performing funds |
+| ![](/static/img/i8.png) | A list of top performing funds |
 
 ## Bank Information
 
