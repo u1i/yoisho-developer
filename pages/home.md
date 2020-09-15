@@ -25,13 +25,13 @@ An increasing number of our banking products and services are available via APIs
 
 |                                       |                                                                                              |
 | ------------------------------------- | -------------------------------------------------------------------------------------------- |
-| ![](/static/img/i7.png) | Calculates rates for deposits based on the amount and the number of years the loan would run |
+| ![](/static/img/i7.png) | Calculates interest rates for deposits based on the amount and the number of years |
 
 ### [Investments](/apis/invest.html)
 
 |                                       |                                |
 | ------------------------------------- | ------------------------------ |
-| ![](/static/img/i8.png) | A list of tpp performing funds |
+| ![](/static/img/i8.png) | A list of top performing funds |
 
 ## Bank Information
 
