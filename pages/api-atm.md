@@ -68,7 +68,7 @@ The entries with id 1 and 2 are prepopulated when the container starts:
 
 > {"message": "updated", "id": 105}
 
-### Get all ATM's
+### Get all ATMs
 
 `curl https://backend.yoisho.dob.jp/banking/v2/atm`
 
