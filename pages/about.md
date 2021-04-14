@@ -8,6 +8,6 @@ eleventyNavigation:
 ---
 ### About Yoisho
 
-Yoisho is, of course, not a real bank. It's an Open Banking playground with APIs from the [Yoisho project](https://github.com/u1i/yoisho).
+Yoisho is, of course, not a real bank. It's an Open Banking playground with APIs from the [Yoisho project](https://github.com/u1i/yoisho). We hope you enjoy the APIs and learn a lot about them.
 
  [What does Yoisho mean?](https://www.japantimes.co.jp/life/2013/03/25/language/yoisho-a-word-to-move-mountains-and-smaller-things/#.W2a6mv4zbMI)
