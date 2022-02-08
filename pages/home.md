@@ -11,6 +11,8 @@ eleventyNavigation:
 
 An increasing number of our banking products and services are available via APIs, in order to allow 3rd parties to build apps. Here you will find all the info and documentation of the APIs our bank offers!
 
+**Update: The public API endpoints are no longer available. Please deploy the containers from the [main project](https://github.com/u1i/yoisho).**
+
 ## Accounts
 
 ### [Bank Account Details & Balance](/apis/account.html)
